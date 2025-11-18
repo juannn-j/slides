@@ -9,6 +9,7 @@ transition: slide-left
 mdc: true
 duration: 20min
 hideInToc: true
+zoom: 1.1
 ---
 
 <div class="absolute bottom-10">
@@ -18,6 +19,7 @@ hideInToc: true
 ---
 layout: bullets
 hideInToc: true
+zoom: 1.1
 ---
 
 # Integrantes
@@ -30,6 +32,7 @@ hideInToc: true
 ---
 layout: default
 hideInToc: true
+zoom: 1.1
 ---
 
 # Contenido
@@ -46,6 +49,7 @@ hideInToc: true
 ---
 layout: bullets
 hideInToc: true
+zoom: 1.1
 ---
 
 # Preguntas despues de ver el video
@@ -56,6 +60,7 @@ hideInToc: true
 
 ---
 layout: default
+zoom: 1.1
 ---
 
 # Introduccion
@@ -64,6 +69,7 @@ layout: default
 
 ---
 layout: default
+zoom: 1.1
 ---
 
 # Objetivos
@@ -76,18 +82,21 @@ layout: default
   profesión.
 
 ---
-layout: quote
+layout: intro-image
 hideInToc: true
+image: "https://elrincondeaquiles.com/wp-content/uploads/2022/12/steve-jobs-biografia-1024x576.png"
+zoom: 1.1
 ---
 
-# "El unico modo de hacer un gran trabajo es amar lo que haces."
-
-Steve Jobs
+<div class="absolute bottom-10">
+  <h1>"El unico modo de hacer un gran trabajo es amar lo que haces."</h1>
+  <span>Steve Jobs</span>
+</div>
 
 ---
 layout: intro-image
 hideInToc: true
-image: "https://images.unsplash.com/photo-1569769107543-e0f61bab8e02?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+zoom: 1.1
 ---
 
 <div class="absolute bottom-50">
@@ -97,56 +106,62 @@ image: "https://images.unsplash.com/photo-1569769107543-e0f61bab8e02?q=80&w=1470
 ---
 layout: image-right
 image: "https://img.freepik.com/free-vector/flat-design-coworking-illustration_23-2150249483.jpg"
+zoom: 1.1
 ---
 
 # ¿A que nos referimos con Valoracion social del trabajo?
 
 - Es una percepcion subjetvida y culturalmente influenciada, puede variar segun la profesion.
-- No existe una valoracion universalmente valida para todas las ocupaciones.
 - La importacion y recompensas asociadas a un trabajo puede cambiar a lo largo del tiempo.
 
 ---
 layout: image-left
-image: "assets/professional-people-work_24908-58135.avif"
+image: "https://img.freepik.com/free-vector/professional-people-work_24908-58135.jpg"
+zoom: 1.1
 ---
 
 # ¿Que significa Trabajo y Profesion?
 
 - El trabajo es una actividad compensada con dinero o algun otro beneficio.
-- Una profesion se refiere a una ocupacion que requiere un conjunto de conocimientos, habilidades, y capacitacion especificos de un campo en particular.
+- Una profesion se refiere a una ocupacion que requiere un conjunto de conocimientos, habilidades, y capacitacion de un campo en particular.
+
+---
+layout: fact
+zoom: 1.5
+---
 
 > Es importante tener en cuenta que no todos los trabajos son profesiones, pero todas las profesiones son trabajos
 
 ---
 layout: image-right
 image: "assets/job-offer-vector-illustration-businessman-recruitment-search-start-career-vacancy-company-flat-cartoon-job-offer-279951281.webp"
+zoom: 1.1
 ---
 
 # ¿Que es la demanda laboral?
 
-- Se refiere a la cantidad de empleos o puestos de trabajo que estan siendo buscados por empleadores en un determinado campo laboral.
-- La demanda laboral puede variar por diferentes factores, como el estado de economia, las condiciones del mercado, las necesidades de la industria y los cambios en la tegnologia.
+- Se refiere a la cantidad de puestos de trabajo que estan siendo buscados por empleadores en un determinado campo laboral.
+- La demanda laboral puede variar por diferentes factores, como el estado de economia, las condiciones del mercado, etc.
 
 ---
 layout: image-left
 image: "https://static01.nyt.com/images/2018/05/22/t-magazine/art/fabricators-slide-4RL7/fabricators-slide-4RL7-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale"
+zoom: 1.1
 ---
 
 # Ejemplo: El valor del arte
 
-Imagina a **Luis**, una artista talentoso con dificultades economicas.
+Imagina a **Luis**, una artista talentoso con dificultades. Su trabajo no es siempre reconocido en terminos economicos. Pero ...
 
-- Su trabajo no es siempre reconocido en terminos economicos.
-- Participa en una esposicion de arte local
+- Participa en una exposicion de arte local.
 - La comunidad comienza a apreciar la profundidad y belleza del trabajo.
-- Su arte genera conversaciones sobre temas importantes.
 
 El **reconocimiento social** le brinda la validacion y proposito, mas alla del benedicio economico
 
 ---
 layout: intro-image
-image: "assets/liam-gardiner-yzvZglnRbhU-unsplash.jpg"
 hideInToc: true
+zoom: 1.1
 ---
 
 <div class="absolute bottom-50">
@@ -155,42 +170,59 @@ hideInToc: true
 
 ---
 layout: image-right
-image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "https://www.bluefireinsurance.com/knowledge-center/wp-content/uploads/sites/2/2024/09/bluefire-emotional-intelligence-a-key-competency-for-modern-insurance-agents-1-800x534.jpg"
+zoom: 1.1
 ---
 
 # ¿Que es la competencia intelectual?
 
+- Se refiere a la capacidad de una persona para aplicar y utilizar de manera efectiva su conocimiento, habilidades cognitivas y pensamiento critico en diversas situaciones.
+- Algunos factores que influyen en la competencia intelectual incluyen la educacion, el entorno familiar, experiencias, acceso y oportunidades de aprendizaje.
+
 ---
-layout: image-right
-image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+layout: image-left
+image: "https://images.ctfassets.net/fgtxcfpuxq93/7asf4Up4pJPdTXD6EiZvuF/932bbb0f20296c5efa2c5acd053e5488/1200_600_Learn_Enough.webp"
+zoom: 1.1
 ---
 
 # ¿Que es la compentencia tecnica?
 
+- Se refiere a las habilidades y conocimientos especificos que una persona posee en un campo o area de especializacion tecnica.
+- Implica tener un solido dominio de los fundamentos teoricos y practicos de un campo, asi como la capacidad de utilizar herramientas, tecnicas y tegnologias relevavntes de manera adecuada.
+
 ---
 layout: image-right
-image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "https://www.apadivisions.org/images/hero-div32_newsletter_tcm12-340215.jpg"
+zoom: 1.1
 ---
 
 # ¿Que es la competencia humanistica?
 
+- Se refiere a la capacidad de una persona para comprender, analizar y apreciar el mundo desde una perspectiva humanistica.
+- Implica tener una comprension profunda de la condicion humana, asi como de las diferentes culturas y sociedades presentes en lo largo de la historia.
+
 ---
 layout: image-right
-image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "https://www.ceupe.com/images/easyblog_articles/3260/bien-comun-caracteristicas.jpg"
+zoom: 1.1
 ---
 
 # ¿Que es la busqueda del bien comun?
 
+- Se refiere a los esfuerzos colectivos de una sociedad para promover el bienestar y el beneficio de todos sus miembros.
+- El concepto del bien comun implica que el interes y el bienestar de una comundad en su conjunto son mas importantes que los intereses individuales o de otros grupos especificos.
+
 ---
-layout: image-right
-image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+layout: bullets
+zoom: 1.1
 ---
 
 # Conclusion
 
 ---
 layout: intro-image
-image: "assets/francesco-ungaro-4KDOE4awTLY-unsplash.jpg"
+image: "https://images.unsplash.com/photo-1698807390276-725f3a7e41cf?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+zoom: 1.5
 ---
 
 <div class="absolute bottom-50">
