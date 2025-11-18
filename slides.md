@@ -137,7 +137,7 @@ hideInToc: true
 
 ---
 layout: image-right
-image: "assets/job-offer-vector-illustration-businessman-recruitment-search-start-career-vacancy-company-flat-cartoon-job-offer-279951281.webp"
+image: "https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/20220502101942095-0-1926149.jpg"
 zoom: 1.2
 ---
 
