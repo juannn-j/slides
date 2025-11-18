@@ -65,7 +65,9 @@ zoom: 1.1
 
 # Introduccion
 
--
+- En esta presentacion identicaremos la valoracion de la sociedad sobre el trabajo.
+- Identificaremos las diferencias entre trabajo y profesion.
+- Analizaremos las competencias necesarias para un trabajo profesional.
 
 ---
 layout: default
