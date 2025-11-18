@@ -19,7 +19,7 @@ zoom: 1.1
 ---
 layout: bullets
 hideInToc: true
-zoom: 1.2
+zoom: 1.3
 ---
 
 # Integrantes
@@ -32,7 +32,7 @@ zoom: 1.2
 ---
 layout: default
 hideInToc: true
-zoom: 1.1
+zoom: 1.2
 ---
 
 # Contenido
@@ -49,7 +49,7 @@ hideInToc: true
 ---
 layout: bullets
 hideInToc: true
-zoom: 1.1
+zoom: 1.3
 ---
 
 # Preguntas después de ver el video
@@ -60,7 +60,7 @@ zoom: 1.1
 
 ---
 layout: default
-zoom: 1.1
+zoom: 1.3
 ---
 
 # Introducción
@@ -71,7 +71,7 @@ zoom: 1.1
 
 ---
 layout: default
-zoom: 1.1
+zoom: 1.2
 ---
 
 # Objetivos
@@ -108,7 +108,7 @@ zoom: 1.1
 ---
 layout: image-right
 image: "https://img.freepik.com/free-vector/flat-design-coworking-illustration_23-2150249483.jpg"
-zoom: 1.1
+zoom: 1.2
 ---
 
 # ¿A que nos referimos con Valoración social del trabajo?
@@ -129,7 +129,7 @@ zoom: 1.1
 
 ---
 layout: fact
-zoom: 1.8
+zoom: 2
 hideInToc: true
 ---
 
@@ -138,7 +138,7 @@ hideInToc: true
 ---
 layout: image-right
 image: "assets/job-offer-vector-illustration-businessman-recruitment-search-start-career-vacancy-company-flat-cartoon-job-offer-279951281.webp"
-zoom: 1.1
+zoom: 1.2
 ---
 
 # ¿Que es la demanda laboral?
@@ -148,16 +148,16 @@ zoom: 1.1
 
 ---
 layout: fact
-zoom: 1.8
+zoom: 2
 hideInToc: true
 ---
 
-> Para los que buscamos empleo, es necesario comprender la demanda laboral en el campo de interés para orientar su búsqueda y tomar decisiones informadas sobre su carrera.
+> Para los que buscamos empleo, es necesario comprender la demanda laboral en el campo de interés para orientar la búsqueda y tomar decisiones informadas sobre la carrera.
 
 ---
 layout: image-left
 image: "https://static01.nyt.com/images/2018/05/22/t-magazine/art/fabricators-slide-4RL7/fabricators-slide-4RL7-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale"
-zoom: 1.1
+zoom: 1.18
 ---
 
 # Ejemplo: El valor del arte
@@ -172,7 +172,7 @@ El **reconocimiento social** le brinda la validación y propósito, más allá d
 ---
 layout: intro-image
 hideInToc: true
-zoom: 1.1
+zoom: 1.2
 ---
 
 <div class="absolute bottom-50">
@@ -225,7 +225,7 @@ zoom: 1.1
 
 ---
 layout: section
-zoom: 1.1
+zoom: 1
 ---
 
 # Ejemplo: Características de un profesional
