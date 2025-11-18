@@ -19,7 +19,7 @@ zoom: 1.1
 ---
 layout: bullets
 hideInToc: true
-zoom: 1.1
+zoom: 1.2
 ---
 
 # Integrantes
@@ -129,7 +129,8 @@ zoom: 1.1
 
 ---
 layout: fact
-zoom: 1.5
+zoom: 1.8
+hideInToc: true
 ---
 
 > Es importante tener en cuenta que no todos los trabajos son profesiones, pero todas las profesiones son trabajos
@@ -144,6 +145,14 @@ zoom: 1.1
 
 - Se refiere a la cantidad de puestos de trabajo que estan siendo buscados por empleadores en un determinado campo laboral.
 - La demanda laboral puede variar por diferentes factores, como el estado de economia, las condiciones del mercado, etc.
+
+---
+layout: fact
+zoom: 1.8
+hideInToc: true
+---
+
+> Para los que buscamos empleo, es necesario comprender la demanda laboral en el campo de interes para orientar su busqueda y tomar decisiones informadas sobre su carrera.
 
 ---
 layout: image-left
@@ -215,11 +224,30 @@ zoom: 1.1
 - El concepto del bien comun implica que el interes y el bienestar de una comundad en su conjunto son mas importantes que los intereses individuales o de otros grupos especificos.
 
 ---
+layout: section
+zoom: 1.1
+---
+
+# Ejemplo: ...
+
+Imagina a **Juan**, es un asistente contable en una empresa enfocada en la produccion de bienes sostenibles. En estse escenario Juan necesita equilibrar competencias intelectuales, tecnicas y un enfoque en el bien comun para desempeñar su papel de manera efectiva.
+
+- Debe poseer conocimiento profundo de los principions contanles, normas fiscales y financieras, asi commo habilidades analiticas para interpretar datos financieros
+- Necesita competencia tecnica en el uso de software contable.
+- Contribuir al bien comun respaldando la responsabilidad social y la sostenibilidad.
+
+La empresa de Juan decide implementar medidas para la reduccion de la huella de carbono. Juan realiza un analisis financiero de los costos operativos, ajusta los registros contables para reflejar estos cambios y se asegura de que la informacion sea comprensible para los interesados.
+
+---
 layout: bullets
 zoom: 1.1
 ---
 
 # Conclusion
+
+- Entendimos que el valor que una sociedad da a una profesion es algo cambiante y depende de muchos factores.
+- Hay diferencias sutiles entre trabajo y profesion.
+- Un profesional necesita de competencias intelectuales, tecnicas, humanisticas y con un enfoque en el bien comun.
 
 ---
 layout: intro-image
