@@ -1,7 +1,7 @@
 ---
 theme: apple-basic
 layout: intro-image
-image: "https://images.unsplash.com/photo-1616361889157-7b095931aea5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+image: "assets/mario-gogh-VBLHICVh-lI-unsplash.jpg"
 title: Valoración Social del Trabajo y Caracteristicas del Trabajo Profesional
 drawings:
   persist: false
@@ -87,7 +87,7 @@ Steve Jobs
 ---
 layout: intro-image
 hideInToc: true
-image: "/assets/kirill.jpg"
+image: "./assets/kirill.jpg"
 ---
 
 <div class="absolute bottom-50">
@@ -96,7 +96,7 @@ image: "/assets/kirill.jpg"
 
 ---
 layout: image-right
-image: "/assets/flat-design-coworking-illustration_23-2150320692.avif"
+image: "https://img.freepik.com/free-vector/flat-design-coworking-illustration_23-2150249483.jpg"
 ---
 
 # ¿A que nos referimos con Valoracion social del trabajo?
@@ -107,7 +107,7 @@ image: "/assets/flat-design-coworking-illustration_23-2150320692.avif"
 
 ---
 layout: image-left
-image: "/assets/professional-people-work_24908-58135.avif"
+image: "assets/professional-people-work_24908-58135.avif"
 ---
 
 # ¿Que significa Trabajo y Profesion?
@@ -119,7 +119,7 @@ image: "/assets/professional-people-work_24908-58135.avif"
 
 ---
 layout: image-right
-image: "/assets/job-offer-vector-illustration-businessman-recruitment-search-start-career-vacancy-company-flat-cartoon-job-offer-279951281.webp"
+image: "assets/job-offer-vector-illustration-businessman-recruitment-search-start-career-vacancy-company-flat-cartoon-job-offer-279951281.webp""
 ---
 
 # ¿Que es la demanda laboral?
@@ -129,7 +129,7 @@ image: "/assets/job-offer-vector-illustration-businessman-recruitment-search-sta
 
 ---
 layout: image-left
-image: "/assets/5773b96cdd0895e9528b4a5d.webp"
+image: "https://static01.nyt.com/images/2018/05/22/t-magazine/art/fabricators-slide-4RL7/fabricators-slide-4RL7-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale"
 ---
 
 # Ejemplo: El valor del arte
@@ -145,7 +145,7 @@ El **reconocimiento social** le brinda la validacion y proposito, mas alla del b
 
 ---
 layout: intro-image
-image: "/assets/liam-gardiner-yzvZglnRbhU-unsplash.jpg"
+image: "assets/liam-gardiner-yzvZglnRbhU-unsplash.jpg"
 hideInToc: true
 ---
 
@@ -155,42 +155,42 @@ hideInToc: true
 
 ---
 layout: image-right
-image: "/assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
 ---
 
 # ¿Que es la competencia intelectual?
 
 ---
 layout: image-right
-image: "/assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
 ---
 
 # ¿Que es la compentencia tecnica?
 
 ---
 layout: image-right
-image: "/assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
 ---
 
 # ¿Que es la competencia humanistica?
 
 ---
 layout: image-right
-image: "/assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
 ---
 
 # ¿Que es la busqueda del bien comun?
 
 ---
 layout: image-right
-image: "/assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
+image: "assets/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg"
 ---
 
 # Conclusion
 
 ---
 layout: intro-image
-image: "/assets/francesco-ungaro-4KDOE4awTLY-unsplash.jpg"
+image: "assets/francesco-ungaro-4KDOE4awTLY-unsplash.jpg"
 ---
 
 <div class="absolute bottom-50">
